@@ -1,0 +1,2 @@
+include setup.py
+include include/header_install/*.h
